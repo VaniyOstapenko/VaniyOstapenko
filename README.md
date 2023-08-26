@@ -8,6 +8,9 @@ Please feel free to reach out with any questions or inquiries.
 You can contact me at ostapenkovaniykalivan@gmail.com. 
 I'm happy to help and provide answers to any of your questions!
 
+### 🤝Social Networks:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-ostapenko-07b5b7286/)
+
 ### My Stats :
 |<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaniyOstapenko&theme=swift"> ||
 | ------------- | ------------- |
