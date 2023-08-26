@@ -7,6 +7,10 @@ I also have practical experience working with databases like PostgreSQL and MySQ
 Please feel free to reach out with any questions or inquiries. 
 You can contact me at ostapenkovaniykalivan@gmail.com. 
 I'm happy to help and provide answers to any of your questions!
+
+### My Stats :
+|<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaniyOstapenko&theme=default"> ||
+| ------------- | ------------- |
 <!--
 **VaniyOstapenko/VaniyOstapenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
