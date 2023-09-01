@@ -1,4 +1,4 @@
-### Hi there, I'm Ivan 👋
+## Hi there, I'm Ivan 👋
 #### About me:
 
 I am an aspiring Full Stack Developer with a focus on creating innovative solutions for web applications. As a software engineer, I am actively involved in web application development and have a good understanding of React.js, JavaScript, TypeScript, HTML/CSS (SCSS/LESS), OOP, SOLID, and REST principles.
